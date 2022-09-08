@@ -1,0 +1,13 @@
+{
+    "name": "Pagos",
+    "alias": "pagos",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Pagos\\Providers\\PagosServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
